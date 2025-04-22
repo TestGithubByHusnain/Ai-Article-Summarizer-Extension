@@ -35,7 +35,7 @@ AI API – For generating summaries
 🚀 Installation
 Clone the repo:
 
-git clone https://github.com/your-username/ai-article-summarizer-extension.git
+git clone https://github.com/TestGithubByHusnain/Ai-Article-Summarizer-Extension.git
 Go to chrome://extensions in your browser.
 
 Turn on Developer Mode (top right).
